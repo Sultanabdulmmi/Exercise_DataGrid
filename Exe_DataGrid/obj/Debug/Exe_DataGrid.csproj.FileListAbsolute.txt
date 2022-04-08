@@ -1,0 +1,10 @@
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\bin\Debug\Exe_DataGrid.exe.config
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\bin\Debug\Exe_DataGrid.exe
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\bin\Debug\Exe_DataGrid.pdb
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.csprojAssemblyReference.cache
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.Form1.resources
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.Properties.Resources.resources
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.csproj.GenerateResource.cache
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.exe
+C:\Users\sulta\source\repos\Exe_DataGrid\Exe_DataGrid\obj\Debug\Exe_DataGrid.pdb
